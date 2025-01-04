@@ -20,10 +20,10 @@ export function SolanaWallet({mnemonic}) {
             const keypair = Keypair.fromSecretKey(secret);
             setCurrentIndex(currentIndex + 1);
             setPubkey([...pubkey, keypair.publicKey]);
-        }}className="bg-blue-500 p-3 text-white rounded-sm  text-center">Add Solana Wallet</button>
+        }}className="bg-blue-500 p-3 text-white rounded-sm  text-center m-3">Add Solana Wallet</button>
         <br/>
-        {pubkey.map(p => <div className="text-white text-2xl">
-            Public key{currentIndex}-:{p.toBase58()}
+        {pubkey.map(p => <div className="text-white text-xl">
+            SOL     Public key{currentIndex}-:{p.toBase58()}
         </div>)}
     </div>
 }
