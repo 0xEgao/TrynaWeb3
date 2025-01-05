@@ -3,7 +3,7 @@ import { generateMnemonic } from "bip39";
 import { SolanaWallet } from './components/SOL';
 import {EthWallet} from './components/ETH';
 function App() {
-
+  
   const [mnemonic, setMnemonic] = useState("");
   return (
     <div className=' min-h-screen min-w-full bg-black font-bold justify-center'>
