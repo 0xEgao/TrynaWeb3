@@ -11,7 +11,7 @@ import {
 } from '@solana/wallet-adapter-react-ui';
 import { clusterApiUrl } from '@solana/web3.js';
 import '@solana/wallet-adapter-react-ui/styles.css';
-
+import {SignMessage} from "./components/sign"
 function App() {
   const network = WalletAdapterNetwork.Devnet;
 
@@ -28,6 +28,7 @@ function App() {
                   <WalletDisconnectButton />
                 </div>
                 <Airdrop />
+                <SignMessage>
               </WalletModalProvider>
           </WalletProvider>
       </ConnectionProvider>
