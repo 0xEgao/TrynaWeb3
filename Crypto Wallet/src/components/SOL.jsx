@@ -23,7 +23,7 @@ export function SolanaWallet({mnemonic}) {
         {pubkey.map(p => <div className="text-white text-xl">
             SOL Public key{currentIndex}-:{p.toBase58()}
             <button onClick={async function () { 
-                const response = await axios.post("https://solana-mainnet.g.alchemy.com/v2/Tzv2mIgg8zkW1Jur3VUYDJ-XvmlnfS3Q", {
+                const response = await axios.post("https://solana-devnet.g.alchemy.com/v2/Tzv2mIgg8zkW1Jur3VUYDJ-XvmlnfS3Q", {
                         "jsonrpc": "2.0",
                         "id": 1,
                         "method": "getAccountInfo",
