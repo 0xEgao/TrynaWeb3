@@ -1,0 +1,10 @@
+/home/skid-kid/web3-cohort/solana-paglu/favourite/anchor/target/rust-analyzer/debug/deps/libversion_check-533d4e108484fc84.rmeta: /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.4/src/lib.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.4/src/version.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.4/src/channel.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.4/src/date.rs
+
+/home/skid-kid/web3-cohort/solana-paglu/favourite/anchor/target/rust-analyzer/debug/deps/libversion_check-533d4e108484fc84.rlib: /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.4/src/lib.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.4/src/version.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.4/src/channel.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.4/src/date.rs
+
+/home/skid-kid/web3-cohort/solana-paglu/favourite/anchor/target/rust-analyzer/debug/deps/version_check-533d4e108484fc84.d: /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.4/src/lib.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.4/src/version.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.4/src/channel.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.4/src/date.rs
+
+/home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.4/src/lib.rs:
+/home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.4/src/version.rs:
+/home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.4/src/channel.rs:
+/home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.4/src/date.rs:
