@@ -1,9 +1,0 @@
-/home/skid-kid/web3-cohort/solana-paglu/favourite/anchor/target/rust-analyzer/wasm32-unknown-unknown/debug/deps/libgetrandom-f8b769208d59b5c0.rmeta: /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/lib.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/error.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/util.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/error_impls.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/wasm32_bindgen.rs
-
-/home/skid-kid/web3-cohort/solana-paglu/favourite/anchor/target/rust-analyzer/wasm32-unknown-unknown/debug/deps/getrandom-f8b769208d59b5c0.d: /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/lib.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/error.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/util.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/error_impls.rs /home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/wasm32_bindgen.rs
-
-/home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/lib.rs:
-/home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/error.rs:
-/home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/util.rs:
-/home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/error_impls.rs:
-/home/skid-kid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/wasm32_bindgen.rs:
